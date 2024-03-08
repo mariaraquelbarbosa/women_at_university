@@ -1,0 +1,1253 @@
+Distribuição da população da USP por gênero e por Unidade;;;;;
+ ;;;;;
+Fonte de dados: Sistemas Janus, Júpiter e Marte;;;;;
+Ano de referência: 2022;;;;;
+Processado em: 2023;;;;;
+;;;;;
+Tipo de Unidade;Unidade;Sexo;Categoria;Subcategoria;Total
+A - Ensino e Pesquisa;EACH;Feminino;Aluno;Graduação;2551
+A - Ensino e Pesquisa;EACH;Feminino;Aluno;Pós-Graduação;750
+A - Ensino e Pesquisa;EACH;Feminino;Aluno;Total;3301
+A - Ensino e Pesquisa;EACH;Feminino;Pós-Doutorando;Pós-Doutorando;51
+A - Ensino e Pesquisa;EACH;Feminino;Servidor;Docente;119
+A - Ensino e Pesquisa;EACH;Feminino;Servidor;Tec/Adm;67
+A - Ensino e Pesquisa;EACH;Feminino;Total;Total;3538
+A - Ensino e Pesquisa;EACH;Masculino;Aluno;Graduação;2141
+A - Ensino e Pesquisa;EACH;Masculino;Aluno;Pós-Graduação;655
+A - Ensino e Pesquisa;EACH;Masculino;Aluno;Total;2796
+A - Ensino e Pesquisa;EACH;Masculino;Pós-Doutorando;Pós-Doutorando;58
+A - Ensino e Pesquisa;EACH;Masculino;Servidor;Docente;131
+A - Ensino e Pesquisa;EACH;Masculino;Servidor;Tec/Adm;110
+A - Ensino e Pesquisa;EACH;Masculino;Total;Total;3095
+A - Ensino e Pesquisa;ECA;Feminino;Aluno;Graduação;1392
+A - Ensino e Pesquisa;ECA;Feminino;Aluno;Pós-Graduação;531
+A - Ensino e Pesquisa;ECA;Feminino;Aluno;Total;1923
+A - Ensino e Pesquisa;ECA;Feminino;Pós-Doutorando;Pós-Doutorando;38
+A - Ensino e Pesquisa;ECA;Feminino;Servidor;Docente;52
+A - Ensino e Pesquisa;ECA;Feminino;Servidor;Tec/Adm;75
+A - Ensino e Pesquisa;ECA;Feminino;Total;Total;2088
+A - Ensino e Pesquisa;ECA;Masculino;Aluno;Graduação;972
+A - Ensino e Pesquisa;ECA;Masculino;Aluno;Pós-Graduação;450
+A - Ensino e Pesquisa;ECA;Masculino;Aluno;Total;1422
+A - Ensino e Pesquisa;ECA;Masculino;Pós-Doutorando;Pós-Doutorando;44
+A - Ensino e Pesquisa;ECA;Masculino;Servidor;Docente;101
+A - Ensino e Pesquisa;ECA;Masculino;Servidor;Tec/Adm;111
+A - Ensino e Pesquisa;ECA;Masculino;Total;Total;1678
+A - Ensino e Pesquisa;EE;Feminino;Aluno;Graduação;348
+A - Ensino e Pesquisa;EE;Feminino;Aluno;Pós-Graduação;302
+A - Ensino e Pesquisa;EE;Feminino;Aluno;Total;650
+A - Ensino e Pesquisa;EE;Feminino;Pós-Doutorando;Pós-Doutorando;22
+A - Ensino e Pesquisa;EE;Feminino;Servidor;Docente;37
+A - Ensino e Pesquisa;EE;Feminino;Servidor;Tec/Adm;52
+A - Ensino e Pesquisa;EE;Feminino;Total;Total;761
+A - Ensino e Pesquisa;EE;Masculino;Aluno;Graduação;80
+A - Ensino e Pesquisa;EE;Masculino;Aluno;Pós-Graduação;70
+A - Ensino e Pesquisa;EE;Masculino;Aluno;Total;150
+A - Ensino e Pesquisa;EE;Masculino;Pós-Doutorando;Pós-Doutorando;6
+A - Ensino e Pesquisa;EE;Masculino;Servidor;Docente;5
+A - Ensino e Pesquisa;EE;Masculino;Servidor;Tec/Adm;40
+A - Ensino e Pesquisa;EE;Masculino;Total;Total;201
+A - Ensino e Pesquisa;EEFE;Feminino;Aluno;Graduação;123
+A - Ensino e Pesquisa;EEFE;Feminino;Aluno;Pós-Graduação;58
+A - Ensino e Pesquisa;EEFE;Feminino;Aluno;Total;181
+A - Ensino e Pesquisa;EEFE;Feminino;Pós-Doutorando;Pós-Doutorando;5
+A - Ensino e Pesquisa;EEFE;Feminino;Servidor;Docente;12
+A - Ensino e Pesquisa;EEFE;Feminino;Servidor;Tec/Adm;34
+A - Ensino e Pesquisa;EEFE;Feminino;Total;Total;232
+A - Ensino e Pesquisa;EEFE;Masculino;Aluno;Graduação;350
+A - Ensino e Pesquisa;EEFE;Masculino;Aluno;Pós-Graduação;78
+A - Ensino e Pesquisa;EEFE;Masculino;Aluno;Total;428
+A - Ensino e Pesquisa;EEFE;Masculino;Pós-Doutorando;Pós-Doutorando;10
+A - Ensino e Pesquisa;EEFE;Masculino;Servidor;Docente;26
+A - Ensino e Pesquisa;EEFE;Masculino;Servidor;Tec/Adm;48
+A - Ensino e Pesquisa;EEFE;Masculino;Total;Total;512
+A - Ensino e Pesquisa;EEFERP;Feminino;Aluno;Graduação;94
+A - Ensino e Pesquisa;EEFERP;Feminino;Aluno;Pós-Graduação;18
+A - Ensino e Pesquisa;EEFERP;Feminino;Aluno;Total;112
+A - Ensino e Pesquisa;EEFERP;Feminino;Pós-Doutorando;Pós-Doutorando;3
+A - Ensino e Pesquisa;EEFERP;Feminino;Servidor;Docente;3
+A - Ensino e Pesquisa;EEFERP;Feminino;Servidor;Tec/Adm;12
+A - Ensino e Pesquisa;EEFERP;Feminino;Total;Total;130
+A - Ensino e Pesquisa;EEFERP;Masculino;Aluno;Graduação;182
+A - Ensino e Pesquisa;EEFERP;Masculino;Aluno;Pós-Graduação;45
+A - Ensino e Pesquisa;EEFERP;Masculino;Aluno;Total;227
+A - Ensino e Pesquisa;EEFERP;Masculino;Pós-Doutorando;Pós-Doutorando;4
+A - Ensino e Pesquisa;EEFERP;Masculino;Servidor;Docente;16
+A - Ensino e Pesquisa;EEFERP;Masculino;Servidor;Tec/Adm;27
+A - Ensino e Pesquisa;EEFERP;Masculino;Total;Total;274
+A - Ensino e Pesquisa;EEL;Feminino;Aluno;Graduação;922
+A - Ensino e Pesquisa;EEL;Feminino;Aluno;Pós-Graduação;201
+A - Ensino e Pesquisa;EEL;Feminino;Aluno;Total;1123
+A - Ensino e Pesquisa;EEL;Feminino;Pós-Doutorando;Pós-Doutorando;11
+A - Ensino e Pesquisa;EEL;Feminino;Servidor;Docente;33
+A - Ensino e Pesquisa;EEL;Feminino;Servidor;Tec/Adm;6
+A - Ensino e Pesquisa;EEL;Feminino;Total;Total;1173
+A - Ensino e Pesquisa;EEL;Masculino;Aluno;Graduação;1246
+A - Ensino e Pesquisa;EEL;Masculino;Aluno;Pós-Graduação;161
+A - Ensino e Pesquisa;EEL;Masculino;Aluno;Total;1407
+A - Ensino e Pesquisa;EEL;Masculino;Pós-Doutorando;Pós-Doutorando;12
+A - Ensino e Pesquisa;EEL;Masculino;Servidor;Docente;50
+A - Ensino e Pesquisa;EEL;Masculino;Servidor;Tec/Adm;7
+A - Ensino e Pesquisa;EEL;Masculino;Total;Total;1476
+A - Ensino e Pesquisa;EERP;Feminino;Aluno;Graduação;517
+A - Ensino e Pesquisa;EERP;Feminino;Aluno;Pós-Graduação;503
+A - Ensino e Pesquisa;EERP;Feminino;Aluno;Total;1020
+A - Ensino e Pesquisa;EERP;Feminino;Pós-Doutorando;Pós-Doutorando;37
+A - Ensino e Pesquisa;EERP;Feminino;Servidor;Docente;77
+A - Ensino e Pesquisa;EERP;Feminino;Servidor;Tec/Adm;56
+A - Ensino e Pesquisa;EERP;Feminino;Total;Total;1190
+A - Ensino e Pesquisa;EERP;Masculino;Aluno;Graduação;81
+A - Ensino e Pesquisa;EERP;Masculino;Aluno;Pós-Graduação;152
+A - Ensino e Pesquisa;EERP;Masculino;Aluno;Total;233
+A - Ensino e Pesquisa;EERP;Masculino;Pós-Doutorando;Pós-Doutorando;14
+A - Ensino e Pesquisa;EERP;Masculino;Servidor;Docente;8
+A - Ensino e Pesquisa;EERP;Masculino;Servidor;Tec/Adm;44
+A - Ensino e Pesquisa;EERP;Masculino;Total;Total;299
+A - Ensino e Pesquisa;EESC;Feminino;Aluno;Graduação;618
+A - Ensino e Pesquisa;EESC;Feminino;Aluno;Pós-Graduação;362
+A - Ensino e Pesquisa;EESC;Feminino;Aluno;Total;980
+A - Ensino e Pesquisa;EESC;Feminino;Pós-Doutorando;Pós-Doutorando;51
+A - Ensino e Pesquisa;EESC;Feminino;Servidor;Docente;24
+A - Ensino e Pesquisa;EESC;Feminino;Servidor;Tec/Adm;111
+A - Ensino e Pesquisa;EESC;Feminino;Total;Total;1166
+A - Ensino e Pesquisa;EESC;Masculino;Aluno;Graduação;2001
+A - Ensino e Pesquisa;EESC;Masculino;Aluno;Pós-Graduação;764
+A - Ensino e Pesquisa;EESC;Masculino;Aluno;Total;2765
+A - Ensino e Pesquisa;EESC;Masculino;Pós-Doutorando;Pós-Doutorando;66
+A - Ensino e Pesquisa;EESC;Masculino;Servidor;Docente;146
+A - Ensino e Pesquisa;EESC;Masculino;Servidor;Tec/Adm;183
+A - Ensino e Pesquisa;EESC;Masculino;Total;Total;3160
+A - Ensino e Pesquisa;EP;Feminino;Aluno;Graduação;1021
+A - Ensino e Pesquisa;EP;Feminino;Aluno;Pós-Graduação;656
+A - Ensino e Pesquisa;EP;Feminino;Aluno;Total;1677
+A - Ensino e Pesquisa;EP;Feminino;Pós-Doutorando;Pós-Doutorando;71
+A - Ensino e Pesquisa;EP;Feminino;Servidor;Docente;53
+A - Ensino e Pesquisa;EP;Feminino;Servidor;Tec/Adm;138
+A - Ensino e Pesquisa;EP;Feminino;Total;Total;1939
+A - Ensino e Pesquisa;EP;Masculino;Aluno;Graduação;4058
+A - Ensino e Pesquisa;EP;Masculino;Aluno;Pós-Graduação;2196
+A - Ensino e Pesquisa;EP;Masculino;Aluno;Total;6254
+A - Ensino e Pesquisa;EP;Masculino;Pós-Doutorando;Pós-Doutorando;163
+A - Ensino e Pesquisa;EP;Masculino;Servidor;Docente;332
+A - Ensino e Pesquisa;EP;Masculino;Servidor;Tec/Adm;238
+A - Ensino e Pesquisa;EP;Masculino;Total;Total;6987
+A - Ensino e Pesquisa;ESALQ;Feminino;Aluno;Graduação;1013
+A - Ensino e Pesquisa;ESALQ;Feminino;Aluno;Pós-Graduação;590
+A - Ensino e Pesquisa;ESALQ;Feminino;Aluno;Total;1603
+A - Ensino e Pesquisa;ESALQ;Feminino;Pós-Doutorando;Pós-Doutorando;111
+A - Ensino e Pesquisa;ESALQ;Feminino;Servidor;Docente;46
+A - Ensino e Pesquisa;ESALQ;Feminino;Servidor;Tec/Adm;164
+A - Ensino e Pesquisa;ESALQ;Feminino;Total;Total;1924
+A - Ensino e Pesquisa;ESALQ;Masculino;Aluno;Graduação;1314
+A - Ensino e Pesquisa;ESALQ;Masculino;Aluno;Pós-Graduação;538
+A - Ensino e Pesquisa;ESALQ;Masculino;Aluno;Total;1852
+A - Ensino e Pesquisa;ESALQ;Masculino;Pós-Doutorando;Pós-Doutorando;102
+A - Ensino e Pesquisa;ESALQ;Masculino;Servidor;Docente;137
+A - Ensino e Pesquisa;ESALQ;Masculino;Servidor;Tec/Adm;269
+A - Ensino e Pesquisa;ESALQ;Masculino;Total;Total;2360
+A - Ensino e Pesquisa;FAU;Feminino;Aluno;Graduação;786
+A - Ensino e Pesquisa;FAU;Feminino;Aluno;Pós-Graduação;538
+A - Ensino e Pesquisa;FAU;Feminino;Aluno;Total;1324
+A - Ensino e Pesquisa;FAU;Feminino;Pós-Doutorando;Pós-Doutorando;27
+A - Ensino e Pesquisa;FAU;Feminino;Servidor;Docente;49
+A - Ensino e Pesquisa;FAU;Feminino;Servidor;Tec/Adm;51
+A - Ensino e Pesquisa;FAU;Feminino;Total;Total;1451
+A - Ensino e Pesquisa;FAU;Masculino;Aluno;Graduação;542
+A - Ensino e Pesquisa;FAU;Masculino;Aluno;Pós-Graduação;364
+A - Ensino e Pesquisa;FAU;Masculino;Aluno;Total;906
+A - Ensino e Pesquisa;FAU;Masculino;Pós-Doutorando;Pós-Doutorando;24
+A - Ensino e Pesquisa;FAU;Masculino;Servidor;Docente;55
+A - Ensino e Pesquisa;FAU;Masculino;Servidor;Tec/Adm;70
+A - Ensino e Pesquisa;FAU;Masculino;Total;Total;1055
+A - Ensino e Pesquisa;FCF;Feminino;Aluno;Graduação;582
+A - Ensino e Pesquisa;FCF;Feminino;Aluno;Pós-Graduação;240
+A - Ensino e Pesquisa;FCF;Feminino;Aluno;Total;822
+A - Ensino e Pesquisa;FCF;Feminino;Pós-Doutorando;Pós-Doutorando;45
+A - Ensino e Pesquisa;FCF;Feminino;Servidor;Docente;35
+A - Ensino e Pesquisa;FCF;Feminino;Servidor;Tec/Adm;82
+A - Ensino e Pesquisa;FCF;Feminino;Total;Total;984
+A - Ensino e Pesquisa;FCF;Masculino;Aluno;Graduação;351
+A - Ensino e Pesquisa;FCF;Masculino;Aluno;Pós-Graduação;110
+A - Ensino e Pesquisa;FCF;Masculino;Aluno;Total;461
+A - Ensino e Pesquisa;FCF;Masculino;Pós-Doutorando;Pós-Doutorando;31
+A - Ensino e Pesquisa;FCF;Masculino;Servidor;Docente;34
+A - Ensino e Pesquisa;FCF;Masculino;Servidor;Tec/Adm;44
+A - Ensino e Pesquisa;FCF;Masculino;Total;Total;570
+A - Ensino e Pesquisa;FCFRP;Feminino;Aluno;Graduação;320
+A - Ensino e Pesquisa;FCFRP;Feminino;Aluno;Pós-Graduação;184
+A - Ensino e Pesquisa;FCFRP;Feminino;Aluno;Total;504
+A - Ensino e Pesquisa;FCFRP;Feminino;Pós-Doutorando;Pós-Doutorando;37
+A - Ensino e Pesquisa;FCFRP;Feminino;Servidor;Docente;50
+A - Ensino e Pesquisa;FCFRP;Feminino;Servidor;Tec/Adm;99
+A - Ensino e Pesquisa;FCFRP;Feminino;Total;Total;690
+A - Ensino e Pesquisa;FCFRP;Masculino;Aluno;Graduação;137
+A - Ensino e Pesquisa;FCFRP;Masculino;Aluno;Pós-Graduação;90
+A - Ensino e Pesquisa;FCFRP;Masculino;Aluno;Total;227
+A - Ensino e Pesquisa;FCFRP;Masculino;Pós-Doutorando;Pós-Doutorando;33
+A - Ensino e Pesquisa;FCFRP;Masculino;Servidor;Docente;34
+A - Ensino e Pesquisa;FCFRP;Masculino;Servidor;Tec/Adm;74
+A - Ensino e Pesquisa;FCFRP;Masculino;Total;Total;368
+A - Ensino e Pesquisa;FD;Feminino;Aluno;Graduação;1087
+A - Ensino e Pesquisa;FD;Feminino;Aluno;Pós-Graduação;770
+A - Ensino e Pesquisa;FD;Feminino;Aluno;Total;1857
+A - Ensino e Pesquisa;FD;Feminino;Pós-Doutorando;Pós-Doutorando;26
+A - Ensino e Pesquisa;FD;Feminino;Servidor;Docente;25
+A - Ensino e Pesquisa;FD;Feminino;Servidor;Tec/Adm;53
+A - Ensino e Pesquisa;FD;Feminino;Total;Total;1961
+A - Ensino e Pesquisa;FD;Masculino;Aluno;Graduação;1373
+A - Ensino e Pesquisa;FD;Masculino;Aluno;Pós-Graduação;1060
+A - Ensino e Pesquisa;FD;Masculino;Aluno;Total;2433
+A - Ensino e Pesquisa;FD;Masculino;Pós-Doutorando;Pós-Doutorando;47
+A - Ensino e Pesquisa;FD;Masculino;Servidor;Docente;115
+A - Ensino e Pesquisa;FD;Masculino;Servidor;Tec/Adm;74
+A - Ensino e Pesquisa;FD;Masculino;Total;Total;2669
+A - Ensino e Pesquisa;FDRP;Feminino;Aluno;Graduação;270
+A - Ensino e Pesquisa;FDRP;Feminino;Aluno;Pós-Graduação;75
+A - Ensino e Pesquisa;FDRP;Feminino;Aluno;Total;345
+A - Ensino e Pesquisa;FDRP;Feminino;Pós-Doutorando;Pós-Doutorando;5
+A - Ensino e Pesquisa;FDRP;Feminino;Servidor;Docente;12
+A - Ensino e Pesquisa;FDRP;Feminino;Servidor;Tec/Adm;17
+A - Ensino e Pesquisa;FDRP;Feminino;Total;Total;379
+A - Ensino e Pesquisa;FDRP;Masculino;Aluno;Graduação;252
+A - Ensino e Pesquisa;FDRP;Masculino;Aluno;Pós-Graduação;60
+A - Ensino e Pesquisa;FDRP;Masculino;Aluno;Total;312
+A - Ensino e Pesquisa;FDRP;Masculino;Pós-Doutorando;Pós-Doutorando;12
+A - Ensino e Pesquisa;FDRP;Masculino;Servidor;Docente;25
+A - Ensino e Pesquisa;FDRP;Masculino;Servidor;Tec/Adm;29
+A - Ensino e Pesquisa;FDRP;Masculino;Total;Total;378
+A - Ensino e Pesquisa;FE;Feminino;Aluno;Graduação;756
+A - Ensino e Pesquisa;FE;Feminino;Aluno;Pós-Graduação;510
+A - Ensino e Pesquisa;FE;Feminino;Aluno;Total;1266
+A - Ensino e Pesquisa;FE;Feminino;Pós-Doutorando;Pós-Doutorando;41
+A - Ensino e Pesquisa;FE;Feminino;Servidor;Docente;52
+A - Ensino e Pesquisa;FE;Feminino;Servidor;Tec/Adm;91
+A - Ensino e Pesquisa;FE;Feminino;Total;Total;1450
+A - Ensino e Pesquisa;FE;Masculino;Aluno;Graduação;180
+A - Ensino e Pesquisa;FE;Masculino;Aluno;Pós-Graduação;306
+A - Ensino e Pesquisa;FE;Masculino;Aluno;Total;486
+A - Ensino e Pesquisa;FE;Masculino;Pós-Doutorando;Pós-Doutorando;31
+A - Ensino e Pesquisa;FE;Masculino;Servidor;Docente;31
+A - Ensino e Pesquisa;FE;Masculino;Servidor;Tec/Adm;59
+A - Ensino e Pesquisa;FE;Masculino;Total;Total;607
+A - Ensino e Pesquisa;FEA;Feminino;Aluno;Graduação;847
+A - Ensino e Pesquisa;FEA;Feminino;Aluno;Pós-Graduação;308
+A - Ensino e Pesquisa;FEA;Feminino;Aluno;Total;1155
+A - Ensino e Pesquisa;FEA;Feminino;Pós-Doutorando;Pós-Doutorando;16
+A - Ensino e Pesquisa;FEA;Feminino;Servidor;Docente;33
+A - Ensino e Pesquisa;FEA;Feminino;Servidor;Tec/Adm;47
+A - Ensino e Pesquisa;FEA;Feminino;Total;Total;1251
+A - Ensino e Pesquisa;FEA;Masculino;Aluno;Graduação;2200
+A - Ensino e Pesquisa;FEA;Masculino;Aluno;Pós-Graduação;472
+A - Ensino e Pesquisa;FEA;Masculino;Aluno;Total;2672
+A - Ensino e Pesquisa;FEA;Masculino;Pós-Doutorando;Pós-Doutorando;29
+A - Ensino e Pesquisa;FEA;Masculino;Servidor;Docente;103
+A - Ensino e Pesquisa;FEA;Masculino;Servidor;Tec/Adm;54
+A - Ensino e Pesquisa;FEA;Masculino;Total;Total;2858
+A - Ensino e Pesquisa;FEARP;Feminino;Aluno;Graduação;481
+A - Ensino e Pesquisa;FEARP;Feminino;Aluno;Pós-Graduação;105
+A - Ensino e Pesquisa;FEARP;Feminino;Aluno;Total;586
+A - Ensino e Pesquisa;FEARP;Feminino;Pós-Doutorando;Pós-Doutorando;9
+A - Ensino e Pesquisa;FEARP;Feminino;Servidor;Docente;23
+A - Ensino e Pesquisa;FEARP;Feminino;Servidor;Tec/Adm;29
+A - Ensino e Pesquisa;FEARP;Feminino;Total;Total;647
+A - Ensino e Pesquisa;FEARP;Masculino;Aluno;Graduação;930
+A - Ensino e Pesquisa;FEARP;Masculino;Aluno;Pós-Graduação;210
+A - Ensino e Pesquisa;FEARP;Masculino;Aluno;Total;1140
+A - Ensino e Pesquisa;FEARP;Masculino;Pós-Doutorando;Pós-Doutorando;15
+A - Ensino e Pesquisa;FEARP;Masculino;Servidor;Docente;62
+A - Ensino e Pesquisa;FEARP;Masculino;Servidor;Tec/Adm;33
+A - Ensino e Pesquisa;FEARP;Masculino;Total;Total;1250
+A - Ensino e Pesquisa;FFCLRP;Feminino;Aluno;Graduação;1072
+A - Ensino e Pesquisa;FFCLRP;Feminino;Aluno;Pós-Graduação;481
+A - Ensino e Pesquisa;FFCLRP;Feminino;Aluno;Total;1553
+A - Ensino e Pesquisa;FFCLRP;Feminino;Pós-Doutorando;Pós-Doutorando;48
+A - Ensino e Pesquisa;FFCLRP;Feminino;Servidor;Docente;86
+A - Ensino e Pesquisa;FFCLRP;Feminino;Servidor;Tec/Adm;86
+A - Ensino e Pesquisa;FFCLRP;Feminino;Total;Total;1773
+A - Ensino e Pesquisa;FFCLRP;Masculino;Aluno;Graduação;934
+A - Ensino e Pesquisa;FFCLRP;Masculino;Aluno;Pós-Graduação;405
+A - Ensino e Pesquisa;FFCLRP;Masculino;Aluno;Total;1339
+A - Ensino e Pesquisa;FFCLRP;Masculino;Pós-Doutorando;Pós-Doutorando;65
+A - Ensino e Pesquisa;FFCLRP;Masculino;Servidor;Docente;110
+A - Ensino e Pesquisa;FFCLRP;Masculino;Servidor;Tec/Adm;112
+A - Ensino e Pesquisa;FFCLRP;Masculino;Total;Total;1626
+A - Ensino e Pesquisa;FFLCH;Feminino;Aluno;Graduação;4972
+A - Ensino e Pesquisa;FFLCH;Feminino;Aluno;Pós-Graduação;1996
+A - Ensino e Pesquisa;FFLCH;Feminino;Aluno;Total;6968
+A - Ensino e Pesquisa;FFLCH;Feminino;Pós-Doutorando;Pós-Doutorando;195
+A - Ensino e Pesquisa;FFLCH;Feminino;Servidor;Docente;171
+A - Ensino e Pesquisa;FFLCH;Feminino;Servidor;Tec/Adm;126
+A - Ensino e Pesquisa;FFLCH;Feminino;Total;Total;7460
+A - Ensino e Pesquisa;FFLCH;Masculino;Aluno;Graduação;4166
+A - Ensino e Pesquisa;FFLCH;Masculino;Aluno;Pós-Graduação;1989
+A - Ensino e Pesquisa;FFLCH;Masculino;Aluno;Total;6155
+A - Ensino e Pesquisa;FFLCH;Masculino;Pós-Doutorando;Pós-Doutorando;206
+A - Ensino e Pesquisa;FFLCH;Masculino;Servidor;Docente;225
+A - Ensino e Pesquisa;FFLCH;Masculino;Servidor;Tec/Adm;157
+A - Ensino e Pesquisa;FFLCH;Masculino;Total;Total;6743
+A - Ensino e Pesquisa;FM;Feminino;Aluno;Graduação;737
+A - Ensino e Pesquisa;FM;Feminino;Aluno;Pós-Graduação;1695
+A - Ensino e Pesquisa;FM;Feminino;Aluno;Total;2432
+A - Ensino e Pesquisa;FM;Feminino;Pós-Doutorando;Pós-Doutorando;161
+A - Ensino e Pesquisa;FM;Feminino;Servidor;Docente;125
+A - Ensino e Pesquisa;FM;Feminino;Servidor;Tec/Adm;276
+A - Ensino e Pesquisa;FM;Feminino;Total;Total;2994
+A - Ensino e Pesquisa;FM;Masculino;Aluno;Graduação;743
+A - Ensino e Pesquisa;FM;Masculino;Aluno;Pós-Graduação;1065
+A - Ensino e Pesquisa;FM;Masculino;Aluno;Total;1808
+A - Ensino e Pesquisa;FM;Masculino;Pós-Doutorando;Pós-Doutorando;140
+A - Ensino e Pesquisa;FM;Masculino;Servidor;Docente;204
+A - Ensino e Pesquisa;FM;Masculino;Servidor;Tec/Adm;134
+A - Ensino e Pesquisa;FM;Masculino;Total;Total;2286
+A - Ensino e Pesquisa;FMRP;Feminino;Aluno;Graduação;828
+A - Ensino e Pesquisa;FMRP;Feminino;Aluno;Pós-Graduação;1104
+A - Ensino e Pesquisa;FMRP;Feminino;Aluno;Total;1932
+A - Ensino e Pesquisa;FMRP;Feminino;Pós-Doutorando;Pós-Doutorando;129
+A - Ensino e Pesquisa;FMRP;Feminino;Servidor;Docente;106
+A - Ensino e Pesquisa;FMRP;Feminino;Servidor;Tec/Adm;261
+A - Ensino e Pesquisa;FMRP;Feminino;Total;Total;2428
+A - Ensino e Pesquisa;FMRP;Masculino;Aluno;Graduação;611
+A - Ensino e Pesquisa;FMRP;Masculino;Aluno;Pós-Graduação;719
+A - Ensino e Pesquisa;FMRP;Masculino;Aluno;Total;1330
+A - Ensino e Pesquisa;FMRP;Masculino;Pós-Doutorando;Pós-Doutorando;86
+A - Ensino e Pesquisa;FMRP;Masculino;Servidor;Docente;172
+A - Ensino e Pesquisa;FMRP;Masculino;Servidor;Tec/Adm;160
+A - Ensino e Pesquisa;FMRP;Masculino;Total;Total;1748
+A - Ensino e Pesquisa;FMVZ;Feminino;Aluno;Graduação;357
+A - Ensino e Pesquisa;FMVZ;Feminino;Aluno;Pós-Graduação;355
+A - Ensino e Pesquisa;FMVZ;Feminino;Aluno;Total;712
+A - Ensino e Pesquisa;FMVZ;Feminino;Pós-Doutorando;Pós-Doutorando;38
+A - Ensino e Pesquisa;FMVZ;Feminino;Servidor;Docente;36
+A - Ensino e Pesquisa;FMVZ;Feminino;Servidor;Tec/Adm;110
+A - Ensino e Pesquisa;FMVZ;Feminino;Total;Total;896
+A - Ensino e Pesquisa;FMVZ;Masculino;Aluno;Graduação;136
+A - Ensino e Pesquisa;FMVZ;Masculino;Aluno;Pós-Graduação;190
+A - Ensino e Pesquisa;FMVZ;Masculino;Aluno;Total;326
+A - Ensino e Pesquisa;FMVZ;Masculino;Pós-Doutorando;Pós-Doutorando;24
+A - Ensino e Pesquisa;FMVZ;Masculino;Servidor;Docente;49
+A - Ensino e Pesquisa;FMVZ;Masculino;Servidor;Tec/Adm;131
+A - Ensino e Pesquisa;FMVZ;Masculino;Total;Total;530
+A - Ensino e Pesquisa;FO;Feminino;Aluno;Graduação;516
+A - Ensino e Pesquisa;FO;Feminino;Aluno;Pós-Graduação;393
+A - Ensino e Pesquisa;FO;Feminino;Aluno;Total;909
+A - Ensino e Pesquisa;FO;Feminino;Pós-Doutorando;Pós-Doutorando;19
+A - Ensino e Pesquisa;FO;Feminino;Servidor;Docente;55
+A - Ensino e Pesquisa;FO;Feminino;Servidor;Tec/Adm;88
+A - Ensino e Pesquisa;FO;Feminino;Total;Total;1071
+A - Ensino e Pesquisa;FO;Masculino;Aluno;Graduação;230
+A - Ensino e Pesquisa;FO;Masculino;Aluno;Pós-Graduação;181
+A - Ensino e Pesquisa;FO;Masculino;Aluno;Total;411
+A - Ensino e Pesquisa;FO;Masculino;Pós-Doutorando;Pós-Doutorando;12
+A - Ensino e Pesquisa;FO;Masculino;Servidor;Docente;74
+A - Ensino e Pesquisa;FO;Masculino;Servidor;Tec/Adm;79
+A - Ensino e Pesquisa;FO;Masculino;Total;Total;576
+A - Ensino e Pesquisa;FOB;Feminino;Aluno;Graduação;441
+A - Ensino e Pesquisa;FOB;Feminino;Aluno;Pós-Graduação;280
+A - Ensino e Pesquisa;FOB;Feminino;Aluno;Total;721
+A - Ensino e Pesquisa;FOB;Feminino;Pós-Doutorando;Pós-Doutorando;36
+A - Ensino e Pesquisa;FOB;Feminino;Servidor;Docente;59
+A - Ensino e Pesquisa;FOB;Feminino;Servidor;Tec/Adm;120
+A - Ensino e Pesquisa;FOB;Feminino;Total;Total;936
+A - Ensino e Pesquisa;FOB;Masculino;Aluno;Graduação;217
+A - Ensino e Pesquisa;FOB;Masculino;Aluno;Pós-Graduação;130
+A - Ensino e Pesquisa;FOB;Masculino;Aluno;Total;347
+A - Ensino e Pesquisa;FOB;Masculino;Pós-Doutorando;Pós-Doutorando;13
+A - Ensino e Pesquisa;FOB;Masculino;Servidor;Docente;41
+A - Ensino e Pesquisa;FOB;Masculino;Servidor;Tec/Adm;83
+A - Ensino e Pesquisa;FOB;Masculino;Total;Total;484
+A - Ensino e Pesquisa;FORP;Feminino;Aluno;Graduação;281
+A - Ensino e Pesquisa;FORP;Feminino;Aluno;Pós-Graduação;226
+A - Ensino e Pesquisa;FORP;Feminino;Aluno;Total;507
+A - Ensino e Pesquisa;FORP;Feminino;Pós-Doutorando;Pós-Doutorando;23
+A - Ensino e Pesquisa;FORP;Feminino;Servidor;Docente;35
+A - Ensino e Pesquisa;FORP;Feminino;Servidor;Tec/Adm;61
+A - Ensino e Pesquisa;FORP;Feminino;Total;Total;626
+A - Ensino e Pesquisa;FORP;Masculino;Aluno;Graduação;149
+A - Ensino e Pesquisa;FORP;Masculino;Aluno;Pós-Graduação;118
+A - Ensino e Pesquisa;FORP;Masculino;Aluno;Total;267
+A - Ensino e Pesquisa;FORP;Masculino;Pós-Doutorando;Pós-Doutorando;6
+A - Ensino e Pesquisa;FORP;Masculino;Servidor;Docente;40
+A - Ensino e Pesquisa;FORP;Masculino;Servidor;Tec/Adm;72
+A - Ensino e Pesquisa;FORP;Masculino;Total;Total;385
+A - Ensino e Pesquisa;FSP;Feminino;Aluno;Graduação;445
+A - Ensino e Pesquisa;FSP;Feminino;Aluno;Pós-Graduação;537
+A - Ensino e Pesquisa;FSP;Feminino;Aluno;Total;982
+A - Ensino e Pesquisa;FSP;Feminino;Pós-Doutorando;Pós-Doutorando;63
+A - Ensino e Pesquisa;FSP;Feminino;Servidor;Docente;47
+A - Ensino e Pesquisa;FSP;Feminino;Servidor;Tec/Adm;133
+A - Ensino e Pesquisa;FSP;Feminino;Total;Total;1225
+A - Ensino e Pesquisa;FSP;Masculino;Aluno;Graduação;151
+A - Ensino e Pesquisa;FSP;Masculino;Aluno;Pós-Graduação;197
+A - Ensino e Pesquisa;FSP;Masculino;Aluno;Total;348
+A - Ensino e Pesquisa;FSP;Masculino;Pós-Doutorando;Pós-Doutorando;20
+A - Ensino e Pesquisa;FSP;Masculino;Servidor;Docente;23
+A - Ensino e Pesquisa;FSP;Masculino;Servidor;Tec/Adm;78
+A - Ensino e Pesquisa;FSP;Masculino;Total;Total;469
+A - Ensino e Pesquisa;FZEA;Feminino;Aluno;Graduação;928
+A - Ensino e Pesquisa;FZEA;Feminino;Aluno;Pós-Graduação;270
+A - Ensino e Pesquisa;FZEA;Feminino;Aluno;Total;1198
+A - Ensino e Pesquisa;FZEA;Feminino;Pós-Doutorando;Pós-Doutorando;39
+A - Ensino e Pesquisa;FZEA;Feminino;Servidor;Docente;41
+A - Ensino e Pesquisa;FZEA;Feminino;Servidor;Tec/Adm;61
+A - Ensino e Pesquisa;FZEA;Feminino;Total;Total;1339
+A - Ensino e Pesquisa;FZEA;Masculino;Aluno;Graduação;525
+A - Ensino e Pesquisa;FZEA;Masculino;Aluno;Pós-Graduação;143
+A - Ensino e Pesquisa;FZEA;Masculino;Aluno;Total;668
+A - Ensino e Pesquisa;FZEA;Masculino;Pós-Doutorando;Pós-Doutorando;29
+A - Ensino e Pesquisa;FZEA;Masculino;Servidor;Docente;59
+A - Ensino e Pesquisa;FZEA;Masculino;Servidor;Tec/Adm;66
+A - Ensino e Pesquisa;FZEA;Masculino;Total;Total;822
+A - Ensino e Pesquisa;IAG;Feminino;Aluno;Graduação;120
+A - Ensino e Pesquisa;IAG;Feminino;Aluno;Pós-Graduação;129
+A - Ensino e Pesquisa;IAG;Feminino;Aluno;Total;249
+A - Ensino e Pesquisa;IAG;Feminino;Pós-Doutorando;Pós-Doutorando;24
+A - Ensino e Pesquisa;IAG;Feminino;Servidor;Docente;23
+A - Ensino e Pesquisa;IAG;Feminino;Servidor;Tec/Adm;42
+A - Ensino e Pesquisa;IAG;Feminino;Total;Total;338
+A - Ensino e Pesquisa;IAG;Masculino;Aluno;Graduação;210
+A - Ensino e Pesquisa;IAG;Masculino;Aluno;Pós-Graduação;156
+A - Ensino e Pesquisa;IAG;Masculino;Aluno;Total;366
+A - Ensino e Pesquisa;IAG;Masculino;Pós-Doutorando;Pós-Doutorando;43
+A - Ensino e Pesquisa;IAG;Masculino;Servidor;Docente;38
+A - Ensino e Pesquisa;IAG;Masculino;Servidor;Tec/Adm;62
+A - Ensino e Pesquisa;IAG;Masculino;Total;Total;509
+A - Ensino e Pesquisa;IAU;Feminino;Aluno;Graduação;209
+A - Ensino e Pesquisa;IAU;Feminino;Aluno;Pós-Graduação;180
+A - Ensino e Pesquisa;IAU;Feminino;Aluno;Total;389
+A - Ensino e Pesquisa;IAU;Feminino;Pós-Doutorando;Pós-Doutorando;10
+A - Ensino e Pesquisa;IAU;Feminino;Servidor;Docente;13
+A - Ensino e Pesquisa;IAU;Feminino;Servidor;Tec/Adm;13
+A - Ensino e Pesquisa;IAU;Feminino;Total;Total;425
+A - Ensino e Pesquisa;IAU;Masculino;Aluno;Graduação;80
+A - Ensino e Pesquisa;IAU;Masculino;Aluno;Pós-Graduação;104
+A - Ensino e Pesquisa;IAU;Masculino;Aluno;Total;184
+A - Ensino e Pesquisa;IAU;Masculino;Pós-Doutorando;Pós-Doutorando;7
+A - Ensino e Pesquisa;IAU;Masculino;Servidor;Docente;24
+A - Ensino e Pesquisa;IAU;Masculino;Servidor;Tec/Adm;23
+A - Ensino e Pesquisa;IAU;Masculino;Total;Total;238
+A - Ensino e Pesquisa;IB;Feminino;Aluno;Graduação;405
+A - Ensino e Pesquisa;IB;Feminino;Aluno;Pós-Graduação;311
+A - Ensino e Pesquisa;IB;Feminino;Aluno;Total;716
+A - Ensino e Pesquisa;IB;Feminino;Pós-Doutorando;Pós-Doutorando;49
+A - Ensino e Pesquisa;IB;Feminino;Servidor;Docente;52
+A - Ensino e Pesquisa;IB;Feminino;Servidor;Tec/Adm;81
+A - Ensino e Pesquisa;IB;Feminino;Total;Total;898
+A - Ensino e Pesquisa;IB;Masculino;Aluno;Graduação;362
+A - Ensino e Pesquisa;IB;Masculino;Aluno;Pós-Graduação;244
+A - Ensino e Pesquisa;IB;Masculino;Aluno;Total;606
+A - Ensino e Pesquisa;IB;Masculino;Pós-Doutorando;Pós-Doutorando;46
+A - Ensino e Pesquisa;IB;Masculino;Servidor;Docente;51
+A - Ensino e Pesquisa;IB;Masculino;Servidor;Tec/Adm;82
+A - Ensino e Pesquisa;IB;Masculino;Total;Total;785
+A - Ensino e Pesquisa;ICB;Feminino;Aluno;Graduação;148
+A - Ensino e Pesquisa;ICB;Feminino;Aluno;Pós-Graduação;407
+A - Ensino e Pesquisa;ICB;Feminino;Aluno;Total;555
+A - Ensino e Pesquisa;ICB;Feminino;Pós-Doutorando;Pós-Doutorando;109
+A - Ensino e Pesquisa;ICB;Feminino;Servidor;Docente;74
+A - Ensino e Pesquisa;ICB;Feminino;Servidor;Tec/Adm;136
+A - Ensino e Pesquisa;ICB;Feminino;Total;Total;874
+A - Ensino e Pesquisa;ICB;Masculino;Aluno;Graduação;66
+A - Ensino e Pesquisa;ICB;Masculino;Aluno;Pós-Graduação;238
+A - Ensino e Pesquisa;ICB;Masculino;Aluno;Total;304
+A - Ensino e Pesquisa;ICB;Masculino;Pós-Doutorando;Pós-Doutorando;60
+A - Ensino e Pesquisa;ICB;Masculino;Servidor;Docente;70
+A - Ensino e Pesquisa;ICB;Masculino;Servidor;Tec/Adm;108
+A - Ensino e Pesquisa;ICB;Masculino;Total;Total;542
+A - Ensino e Pesquisa;ICMC;Feminino;Aluno;Graduação;211
+A - Ensino e Pesquisa;ICMC;Feminino;Aluno;Pós-Graduação;196
+A - Ensino e Pesquisa;ICMC;Feminino;Aluno;Total;407
+A - Ensino e Pesquisa;ICMC;Feminino;Pós-Doutorando;Pós-Doutorando;34
+A - Ensino e Pesquisa;ICMC;Feminino;Servidor;Docente;35
+A - Ensino e Pesquisa;ICMC;Feminino;Servidor;Tec/Adm;45
+A - Ensino e Pesquisa;ICMC;Feminino;Total;Total;521
+A - Ensino e Pesquisa;ICMC;Masculino;Aluno;Graduação;1084
+A - Ensino e Pesquisa;ICMC;Masculino;Aluno;Pós-Graduação;585
+A - Ensino e Pesquisa;ICMC;Masculino;Aluno;Total;1669
+A - Ensino e Pesquisa;ICMC;Masculino;Pós-Doutorando;Pós-Doutorando;76
+A - Ensino e Pesquisa;ICMC;Masculino;Servidor;Docente;82
+A - Ensino e Pesquisa;ICMC;Masculino;Servidor;Tec/Adm;56
+A - Ensino e Pesquisa;ICMC;Masculino;Total;Total;1883
+A - Ensino e Pesquisa;IF;Feminino;Aluno;Graduação;288
+A - Ensino e Pesquisa;IF;Feminino;Aluno;Pós-Graduação;72
+A - Ensino e Pesquisa;IF;Feminino;Aluno;Total;360
+A - Ensino e Pesquisa;IF;Feminino;Pós-Doutorando;Pós-Doutorando;28
+A - Ensino e Pesquisa;IF;Feminino;Servidor;Docente;27
+A - Ensino e Pesquisa;IF;Feminino;Servidor;Tec/Adm;63
+A - Ensino e Pesquisa;IF;Feminino;Total;Total;478
+A - Ensino e Pesquisa;IF;Masculino;Aluno;Graduação;1046
+A - Ensino e Pesquisa;IF;Masculino;Aluno;Pós-Graduação;322
+A - Ensino e Pesquisa;IF;Masculino;Aluno;Total;1368
+A - Ensino e Pesquisa;IF;Masculino;Pós-Doutorando;Pós-Doutorando;61
+A - Ensino e Pesquisa;IF;Masculino;Servidor;Docente;88
+A - Ensino e Pesquisa;IF;Masculino;Servidor;Tec/Adm;174
+A - Ensino e Pesquisa;IF;Masculino;Total;Total;1691
+A - Ensino e Pesquisa;IFSC;Feminino;Aluno;Graduação;138
+A - Ensino e Pesquisa;IFSC;Feminino;Aluno;Pós-Graduação;97
+A - Ensino e Pesquisa;IFSC;Feminino;Aluno;Total;235
+A - Ensino e Pesquisa;IFSC;Feminino;Pós-Doutorando;Pós-Doutorando;54
+A - Ensino e Pesquisa;IFSC;Feminino;Servidor;Docente;9
+A - Ensino e Pesquisa;IFSC;Feminino;Servidor;Tec/Adm;63
+A - Ensino e Pesquisa;IFSC;Feminino;Total;Total;361
+A - Ensino e Pesquisa;IFSC;Masculino;Aluno;Graduação;337
+A - Ensino e Pesquisa;IFSC;Masculino;Aluno;Pós-Graduação;230
+A - Ensino e Pesquisa;IFSC;Masculino;Aluno;Total;567
+A - Ensino e Pesquisa;IFSC;Masculino;Pós-Doutorando;Pós-Doutorando;72
+A - Ensino e Pesquisa;IFSC;Masculino;Servidor;Docente;69
+A - Ensino e Pesquisa;IFSC;Masculino;Servidor;Tec/Adm;98
+A - Ensino e Pesquisa;IFSC;Masculino;Total;Total;806
+A - Ensino e Pesquisa;IGc;Feminino;Aluno;Graduação;218
+A - Ensino e Pesquisa;IGc;Feminino;Aluno;Pós-Graduação;111
+A - Ensino e Pesquisa;IGc;Feminino;Aluno;Total;329
+A - Ensino e Pesquisa;IGc;Feminino;Pós-Doutorando;Pós-Doutorando;17
+A - Ensino e Pesquisa;IGc;Feminino;Servidor;Docente;15
+A - Ensino e Pesquisa;IGc;Feminino;Servidor;Tec/Adm;49
+A - Ensino e Pesquisa;IGc;Feminino;Total;Total;410
+A - Ensino e Pesquisa;IGc;Masculino;Aluno;Graduação;276
+A - Ensino e Pesquisa;IGc;Masculino;Aluno;Pós-Graduação;155
+A - Ensino e Pesquisa;IGc;Masculino;Aluno;Total;431
+A - Ensino e Pesquisa;IGc;Masculino;Pós-Doutorando;Pós-Doutorando;23
+A - Ensino e Pesquisa;IGc;Masculino;Servidor;Docente;34
+A - Ensino e Pesquisa;IGc;Masculino;Servidor;Tec/Adm;62
+A - Ensino e Pesquisa;IGc;Masculino;Total;Total;550
+A - Ensino e Pesquisa;IME;Feminino;Aluno;Graduação;406
+A - Ensino e Pesquisa;IME;Feminino;Aluno;Pós-Graduação;209
+A - Ensino e Pesquisa;IME;Feminino;Aluno;Total;615
+A - Ensino e Pesquisa;IME;Feminino;Pós-Doutorando;Pós-Doutorando;15
+A - Ensino e Pesquisa;IME;Feminino;Servidor;Docente;41
+A - Ensino e Pesquisa;IME;Feminino;Servidor;Tec/Adm;48
+A - Ensino e Pesquisa;IME;Feminino;Total;Total;719
+A - Ensino e Pesquisa;IME;Masculino;Aluno;Graduação;1252
+A - Ensino e Pesquisa;IME;Masculino;Aluno;Pós-Graduação;713
+A - Ensino e Pesquisa;IME;Masculino;Aluno;Total;1965
+A - Ensino e Pesquisa;IME;Masculino;Pós-Doutorando;Pós-Doutorando;78
+A - Ensino e Pesquisa;IME;Masculino;Servidor;Docente;121
+A - Ensino e Pesquisa;IME;Masculino;Servidor;Tec/Adm;48
+A - Ensino e Pesquisa;IME;Masculino;Total;Total;2212
+A - Ensino e Pesquisa;IO;Feminino;Aluno;Graduação;142
+A - Ensino e Pesquisa;IO;Feminino;Aluno;Pós-Graduação;126
+A - Ensino e Pesquisa;IO;Feminino;Aluno;Total;268
+A - Ensino e Pesquisa;IO;Feminino;Pós-Doutorando;Pós-Doutorando;35
+A - Ensino e Pesquisa;IO;Feminino;Servidor;Docente;12
+A - Ensino e Pesquisa;IO;Feminino;Servidor;Tec/Adm;34
+A - Ensino e Pesquisa;IO;Feminino;Total;Total;349
+A - Ensino e Pesquisa;IO;Masculino;Aluno;Graduação;76
+A - Ensino e Pesquisa;IO;Masculino;Aluno;Pós-Graduação;81
+A - Ensino e Pesquisa;IO;Masculino;Aluno;Total;157
+A - Ensino e Pesquisa;IO;Masculino;Pós-Doutorando;Pós-Doutorando;24
+A - Ensino e Pesquisa;IO;Masculino;Servidor;Docente;22
+A - Ensino e Pesquisa;IO;Masculino;Servidor;Tec/Adm;85
+A - Ensino e Pesquisa;IO;Masculino;Total;Total;288
+A - Ensino e Pesquisa;IP;Feminino;Aluno;Graduação;274
+A - Ensino e Pesquisa;IP;Feminino;Aluno;Pós-Graduação;754
+A - Ensino e Pesquisa;IP;Feminino;Aluno;Total;1028
+A - Ensino e Pesquisa;IP;Feminino;Pós-Doutorando;Pós-Doutorando;47
+A - Ensino e Pesquisa;IP;Feminino;Servidor;Docente;39
+A - Ensino e Pesquisa;IP;Feminino;Servidor;Tec/Adm;65
+A - Ensino e Pesquisa;IP;Feminino;Total;Total;1179
+A - Ensino e Pesquisa;IP;Masculino;Aluno;Graduação;180
+A - Ensino e Pesquisa;IP;Masculino;Aluno;Pós-Graduação;371
+A - Ensino e Pesquisa;IP;Masculino;Aluno;Total;551
+A - Ensino e Pesquisa;IP;Masculino;Pós-Doutorando;Pós-Doutorando;29
+A - Ensino e Pesquisa;IP;Masculino;Servidor;Docente;33
+A - Ensino e Pesquisa;IP;Masculino;Servidor;Tec/Adm;51
+A - Ensino e Pesquisa;IP;Masculino;Total;Total;664
+A - Ensino e Pesquisa;IQ;Feminino;Aluno;Graduação;336
+A - Ensino e Pesquisa;IQ;Feminino;Aluno;Pós-Graduação;204
+A - Ensino e Pesquisa;IQ;Feminino;Aluno;Total;540
+A - Ensino e Pesquisa;IQ;Feminino;Pós-Doutorando;Pós-Doutorando;57
+A - Ensino e Pesquisa;IQ;Feminino;Servidor;Docente;36
+A - Ensino e Pesquisa;IQ;Feminino;Servidor;Tec/Adm;88
+A - Ensino e Pesquisa;IQ;Feminino;Total;Total;721
+A - Ensino e Pesquisa;IQ;Masculino;Aluno;Graduação;481
+A - Ensino e Pesquisa;IQ;Masculino;Aluno;Pós-Graduação;292
+A - Ensino e Pesquisa;IQ;Masculino;Aluno;Total;773
+A - Ensino e Pesquisa;IQ;Masculino;Pós-Doutorando;Pós-Doutorando;86
+A - Ensino e Pesquisa;IQ;Masculino;Servidor;Docente;63
+A - Ensino e Pesquisa;IQ;Masculino;Servidor;Tec/Adm;96
+A - Ensino e Pesquisa;IQ;Masculino;Total;Total;1018
+A - Ensino e Pesquisa;IQSC;Feminino;Aluno;Graduação;150
+A - Ensino e Pesquisa;IQSC;Feminino;Aluno;Pós-Graduação;155
+A - Ensino e Pesquisa;IQSC;Feminino;Aluno;Total;305
+A - Ensino e Pesquisa;IQSC;Feminino;Pós-Doutorando;Pós-Doutorando;26
+A - Ensino e Pesquisa;IQSC;Feminino;Servidor;Docente;13
+A - Ensino e Pesquisa;IQSC;Feminino;Servidor;Tec/Adm;54
+A - Ensino e Pesquisa;IQSC;Feminino;Total;Total;398
+A - Ensino e Pesquisa;IQSC;Masculino;Aluno;Graduação;157
+A - Ensino e Pesquisa;IQSC;Masculino;Aluno;Pós-Graduação;188
+A - Ensino e Pesquisa;IQSC;Masculino;Aluno;Total;345
+A - Ensino e Pesquisa;IQSC;Masculino;Pós-Doutorando;Pós-Doutorando;63
+A - Ensino e Pesquisa;IQSC;Masculino;Servidor;Docente;38
+A - Ensino e Pesquisa;IQSC;Masculino;Servidor;Tec/Adm;61
+A - Ensino e Pesquisa;IQSC;Masculino;Total;Total;507
+A - Ensino e Pesquisa;IRI;Feminino;Aluno;Graduação;162
+A - Ensino e Pesquisa;IRI;Feminino;Aluno;Pós-Graduação;73
+A - Ensino e Pesquisa;IRI;Feminino;Aluno;Total;235
+A - Ensino e Pesquisa;IRI;Feminino;Pós-Doutorando;Pós-Doutorando;5
+A - Ensino e Pesquisa;IRI;Feminino;Servidor;Docente;7
+A - Ensino e Pesquisa;IRI;Feminino;Servidor;Tec/Adm;18
+A - Ensino e Pesquisa;IRI;Feminino;Total;Total;265
+A - Ensino e Pesquisa;IRI;Masculino;Aluno;Graduação;146
+A - Ensino e Pesquisa;IRI;Masculino;Aluno;Pós-Graduação;68
+A - Ensino e Pesquisa;IRI;Masculino;Aluno;Total;214
+A - Ensino e Pesquisa;IRI;Masculino;Pós-Doutorando;Pós-Doutorando;2
+A - Ensino e Pesquisa;IRI;Masculino;Servidor;Docente;10
+A - Ensino e Pesquisa;IRI;Masculino;Servidor;Tec/Adm;11
+A - Ensino e Pesquisa;IRI;Masculino;Total;Total;237
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Aluno;Pós-Graduação;0
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Aluno;Total;0
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Pós-Doutorando;Pós-Doutorando;5
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Servidor;Docente;1
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Servidor;Tec/Adm;13
+B - Centros e Institutos Especializados;CEBIMar;Feminino;Total;Total;19
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Aluno;Pós-Graduação;0
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Aluno;Total;0
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Pós-Doutorando;Pós-Doutorando;4
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Servidor;Docente;6
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Servidor;Tec/Adm;18
+B - Centros e Institutos Especializados;CEBIMar;Masculino;Total;Total;28
+B - Centros e Institutos Especializados;CENA;Feminino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;CENA;Feminino;Aluno;Pós-Graduação;78
+B - Centros e Institutos Especializados;CENA;Feminino;Aluno;Total;78
+B - Centros e Institutos Especializados;CENA;Feminino;Pós-Doutorando;Pós-Doutorando;22
+B - Centros e Institutos Especializados;CENA;Feminino;Servidor;Docente;6
+B - Centros e Institutos Especializados;CENA;Feminino;Servidor;Tec/Adm;54
+B - Centros e Institutos Especializados;CENA;Feminino;Total;Total;160
+B - Centros e Institutos Especializados;CENA;Masculino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;CENA;Masculino;Aluno;Pós-Graduação;69
+B - Centros e Institutos Especializados;CENA;Masculino;Aluno;Total;69
+B - Centros e Institutos Especializados;CENA;Masculino;Pós-Doutorando;Pós-Doutorando;22
+B - Centros e Institutos Especializados;CENA;Masculino;Servidor;Docente;27
+B - Centros e Institutos Especializados;CENA;Masculino;Servidor;Tec/Adm;64
+B - Centros e Institutos Especializados;CENA;Masculino;Total;Total;182
+B - Centros e Institutos Especializados;IEA;Feminino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEA;Feminino;Aluno;Pós-Graduação;0
+B - Centros e Institutos Especializados;IEA;Feminino;Aluno;Total;0
+B - Centros e Institutos Especializados;IEA;Feminino;Pós-Doutorando;Pós-Doutorando;76
+B - Centros e Institutos Especializados;IEA;Feminino;Servidor;Docente;0
+B - Centros e Institutos Especializados;IEA;Feminino;Servidor;Tec/Adm;15
+B - Centros e Institutos Especializados;IEA;Feminino;Total;Total;91
+B - Centros e Institutos Especializados;IEA;Masculino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEA;Masculino;Aluno;Pós-Graduação;0
+B - Centros e Institutos Especializados;IEA;Masculino;Aluno;Total;0
+B - Centros e Institutos Especializados;IEA;Masculino;Pós-Doutorando;Pós-Doutorando;46
+B - Centros e Institutos Especializados;IEA;Masculino;Servidor;Docente;0
+B - Centros e Institutos Especializados;IEA;Masculino;Servidor;Tec/Adm;13
+B - Centros e Institutos Especializados;IEA;Masculino;Total;Total;59
+B - Centros e Institutos Especializados;IEB;Feminino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEB;Feminino;Aluno;Pós-Graduação;56
+B - Centros e Institutos Especializados;IEB;Feminino;Aluno;Total;56
+B - Centros e Institutos Especializados;IEB;Feminino;Pós-Doutorando;Pós-Doutorando;13
+B - Centros e Institutos Especializados;IEB;Feminino;Servidor;Docente;5
+B - Centros e Institutos Especializados;IEB;Feminino;Servidor;Tec/Adm;28
+B - Centros e Institutos Especializados;IEB;Feminino;Total;Total;102
+B - Centros e Institutos Especializados;IEB;Masculino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEB;Masculino;Aluno;Pós-Graduação;38
+B - Centros e Institutos Especializados;IEB;Masculino;Aluno;Total;38
+B - Centros e Institutos Especializados;IEB;Masculino;Pós-Doutorando;Pós-Doutorando;8
+B - Centros e Institutos Especializados;IEB;Masculino;Servidor;Docente;8
+B - Centros e Institutos Especializados;IEB;Masculino;Servidor;Tec/Adm;12
+B - Centros e Institutos Especializados;IEB;Masculino;Total;Total;66
+B - Centros e Institutos Especializados;IEE;Feminino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEE;Feminino;Aluno;Pós-Graduação;178
+B - Centros e Institutos Especializados;IEE;Feminino;Aluno;Total;178
+B - Centros e Institutos Especializados;IEE;Feminino;Pós-Doutorando;Pós-Doutorando;17
+B - Centros e Institutos Especializados;IEE;Feminino;Servidor;Docente;3
+B - Centros e Institutos Especializados;IEE;Feminino;Servidor;Tec/Adm;35
+B - Centros e Institutos Especializados;IEE;Feminino;Total;Total;233
+B - Centros e Institutos Especializados;IEE;Masculino;Aluno;Graduação;0
+B - Centros e Institutos Especializados;IEE;Masculino;Aluno;Pós-Graduação;151
+B - Centros e Institutos Especializados;IEE;Masculino;Aluno;Total;151
+B - Centros e Institutos Especializados;IEE;Masculino;Pós-Doutorando;Pós-Doutorando;15
+B - Centros e Institutos Especializados;IEE;Masculino;Servidor;Docente;8
+B - Centros e Institutos Especializados;IEE;Masculino;Servidor;Tec/Adm;95
+B - Centros e Institutos Especializados;IEE;Masculino;Total;Total;269
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Aluno;Pós-Graduação;263
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Aluno;Total;263
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Pós-Doutorando;Pós-Doutorando;7
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Servidor;Tec/Adm;385
+C - Hospitais e Serviços Anexos;HRAC;Feminino;Total;Total;655
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Aluno;Pós-Graduação;101
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Aluno;Total;101
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Pós-Doutorando;Pós-Doutorando;2
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Servidor;Tec/Adm;164
+C - Hospitais e Serviços Anexos;HRAC;Masculino;Total;Total;267
+C - Hospitais e Serviços Anexos;HU;Feminino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;HU;Feminino;Aluno;Pós-Graduação;0
+C - Hospitais e Serviços Anexos;HU;Feminino;Aluno;Total;0
+C - Hospitais e Serviços Anexos;HU;Feminino;Pós-Doutorando;Pós-Doutorando;3
+C - Hospitais e Serviços Anexos;HU;Feminino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;HU;Feminino;Servidor;Tec/Adm;929
+C - Hospitais e Serviços Anexos;HU;Feminino;Total;Total;932
+C - Hospitais e Serviços Anexos;HU;Masculino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;HU;Masculino;Aluno;Pós-Graduação;0
+C - Hospitais e Serviços Anexos;HU;Masculino;Aluno;Total;0
+C - Hospitais e Serviços Anexos;HU;Masculino;Pós-Doutorando;Pós-Doutorando;3
+C - Hospitais e Serviços Anexos;HU;Masculino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;HU;Masculino;Servidor;Tec/Adm;449
+C - Hospitais e Serviços Anexos;HU;Masculino;Total;Total;452
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Aluno;Pós-Graduação;0
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Aluno;Total;0
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Servidor;Tec/Adm;12
+C - Hospitais e Serviços Anexos;SVOC;Feminino;Total;Total;12
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Aluno;Graduação;0
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Aluno;Pós-Graduação;0
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Aluno;Total;0
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Servidor;Docente;0
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Servidor;Tec/Adm;37
+C - Hospitais e Serviços Anexos;SVOC;Masculino;Total;Total;37
+D - Museus;MAC;Feminino;Aluno;Graduação;0
+D - Museus;MAC;Feminino;Aluno;Pós-Graduação;0
+D - Museus;MAC;Feminino;Aluno;Total;0
+D - Museus;MAC;Feminino;Pós-Doutorando;Pós-Doutorando;3
+D - Museus;MAC;Feminino;Servidor;Docente;4
+D - Museus;MAC;Feminino;Servidor;Tec/Adm;47
+D - Museus;MAC;Feminino;Total;Total;54
+D - Museus;MAC;Masculino;Aluno;Graduação;0
+D - Museus;MAC;Masculino;Aluno;Pós-Graduação;0
+D - Museus;MAC;Masculino;Aluno;Total;0
+D - Museus;MAC;Masculino;Pós-Doutorando;Pós-Doutorando;4
+D - Museus;MAC;Masculino;Servidor;Docente;1
+D - Museus;MAC;Masculino;Servidor;Tec/Adm;31
+D - Museus;MAC;Masculino;Total;Total;36
+D - Museus;MAE;Feminino;Aluno;Graduação;0
+D - Museus;MAE;Feminino;Aluno;Pós-Graduação;67
+D - Museus;MAE;Feminino;Aluno;Total;67
+D - Museus;MAE;Feminino;Pós-Doutorando;Pós-Doutorando;12
+D - Museus;MAE;Feminino;Servidor;Docente;10
+D - Museus;MAE;Feminino;Servidor;Tec/Adm;19
+D - Museus;MAE;Feminino;Total;Total;108
+D - Museus;MAE;Masculino;Aluno;Graduação;0
+D - Museus;MAE;Masculino;Aluno;Pós-Graduação;53
+D - Museus;MAE;Masculino;Aluno;Total;53
+D - Museus;MAE;Masculino;Pós-Doutorando;Pós-Doutorando;8
+D - Museus;MAE;Masculino;Servidor;Docente;7
+D - Museus;MAE;Masculino;Servidor;Tec/Adm;27
+D - Museus;MAE;Masculino;Total;Total;95
+D - Museus;MP;Feminino;Aluno;Graduação;0
+D - Museus;MP;Feminino;Aluno;Pós-Graduação;0
+D - Museus;MP;Feminino;Aluno;Total;0
+D - Museus;MP;Feminino;Pós-Doutorando;Pós-Doutorando;8
+D - Museus;MP;Feminino;Servidor;Docente;5
+D - Museus;MP;Feminino;Servidor;Tec/Adm;44
+D - Museus;MP;Feminino;Total;Total;57
+D - Museus;MP;Masculino;Aluno;Graduação;0
+D - Museus;MP;Masculino;Aluno;Pós-Graduação;0
+D - Museus;MP;Masculino;Aluno;Total;0
+D - Museus;MP;Masculino;Pós-Doutorando;Pós-Doutorando;5
+D - Museus;MP;Masculino;Servidor;Docente;2
+D - Museus;MP;Masculino;Servidor;Tec/Adm;35
+D - Museus;MP;Masculino;Total;Total;42
+D - Museus;MZ;Feminino;Aluno;Graduação;0
+D - Museus;MZ;Feminino;Aluno;Pós-Graduação;24
+D - Museus;MZ;Feminino;Aluno;Total;24
+D - Museus;MZ;Feminino;Pós-Doutorando;Pós-Doutorando;8
+D - Museus;MZ;Feminino;Servidor;Docente;5
+D - Museus;MZ;Feminino;Servidor;Tec/Adm;35
+D - Museus;MZ;Feminino;Total;Total;72
+D - Museus;MZ;Masculino;Aluno;Graduação;0
+D - Museus;MZ;Masculino;Aluno;Pós-Graduação;33
+D - Museus;MZ;Masculino;Aluno;Total;33
+D - Museus;MZ;Masculino;Pós-Doutorando;Pós-Doutorando;7
+D - Museus;MZ;Masculino;Servidor;Docente;10
+D - Museus;MZ;Masculino;Servidor;Tec/Adm;28
+D - Museus;MZ;Masculino;Total;Total;78
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Servidor;Tec/Adm;20
+E - Órgãos Centrais - Direção e Serviço;ABCD;Feminino;Total;Total;20
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Servidor;Tec/Adm;13
+E - Órgãos Centrais - Direção e Serviço;ABCD;Masculino;Total;Total;13
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Servidor;Tec/Adm;13
+E - Órgãos Centrais - Direção e Serviço;CDCC;Feminino;Total;Total;13
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Servidor;Tec/Adm;16
+E - Órgãos Centrais - Direção e Serviço;CDCC;Masculino;Total;Total;16
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Servidor;Tec/Adm;39
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Feminino;Total;Total;39
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Servidor;Tec/Adm;80
+E - Órgãos Centrais - Direção e Serviço;CEPEUSP;Masculino;Total;Total;80
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Servidor;Tec/Adm;29
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Feminino;Total;Total;29
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Servidor;Tec/Adm;22
+E - Órgãos Centrais - Direção e Serviço;EDUSP;Masculino;Total;Total;22
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Servidor;Tec/Adm;22
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Feminino;Total;Total;22
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Servidor;Tec/Adm;75
+E - Órgãos Centrais - Direção e Serviço;PUSP-B;Masculino;Total;Total;75
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Servidor;Tec/Adm;12
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Feminino;Total;Total;12
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Servidor;Tec/Adm;146
+E - Órgãos Centrais - Direção e Serviço;PUSP-C;Masculino;Total;Total;146
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Servidor;Tec/Adm;3
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Feminino;Total;Total;3
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Servidor;Tec/Adm;4
+E - Órgãos Centrais - Direção e Serviço;PUSP-CL;Masculino;Total;Total;4
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Servidor;Tec/Adm;18
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Feminino;Total;Total;18
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Servidor;Tec/Adm;147
+E - Órgãos Centrais - Direção e Serviço;PUSP-FC;Masculino;Total;Total;147
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Servidor;Tec/Adm;1
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Feminino;Total;Total;1
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Servidor;Tec/Adm;7
+E - Órgãos Centrais - Direção e Serviço;PUSP-L;Masculino;Total;Total;7
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Servidor;Tec/Adm;53
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Feminino;Total;Total;53
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Servidor;Tec/Adm;160
+E - Órgãos Centrais - Direção e Serviço;PUSP-LQ;Masculino;Total;Total;160
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Servidor;Tec/Adm;2
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Feminino;Total;Total;2
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Servidor;Tec/Adm;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-QSD;Masculino;Total;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Servidor;Tec/Adm;124
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Feminino;Total;Total;124
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Servidor;Tec/Adm;266
+E - Órgãos Centrais - Direção e Serviço;PUSP-RP;Masculino;Total;Total;266
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Servidor;Tec/Adm;71
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Feminino;Total;Total;71
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Servidor;Tec/Adm;134
+E - Órgãos Centrais - Direção e Serviço;PUSP-SC;Masculino;Total;Total;134
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Servidor;Tec/Adm;688
+E - Órgãos Centrais - Direção e Serviço;RUSP;Feminino;Total;Total;688
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Servidor;Tec/Adm;810
+E - Órgãos Centrais - Direção e Serviço;RUSP;Masculino;Total;Total;810
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Servidor;Tec/Adm;36
+E - Órgãos Centrais - Direção e Serviço;SCS;Feminino;Total;Total;36
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Servidor;Tec/Adm;36
+E - Órgãos Centrais - Direção e Serviço;SCS;Masculino;Total;Total;36
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Servidor;Tec/Adm;26
+E - Órgãos Centrais - Direção e Serviço;SEF;Feminino;Total;Total;26
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Servidor;Tec/Adm;62
+E - Órgãos Centrais - Direção e Serviço;SEF;Masculino;Total;Total;62
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Servidor;Tec/Adm;54
+E - Órgãos Centrais - Direção e Serviço;STI;Feminino;Total;Total;54
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Aluno;Graduação;0
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Aluno;Pós-Graduação;0
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Aluno;Total;0
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Pós-Doutorando;Pós-Doutorando;0
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Servidor;Docente;0
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Servidor;Tec/Adm;171
+E - Órgãos Centrais - Direção e Serviço;STI;Masculino;Total;Total;171
+F - Entidades Associadas;IDPC;Feminino;Aluno;Graduação;0
+F - Entidades Associadas;IDPC;Feminino;Aluno;Pós-Graduação;25
+F - Entidades Associadas;IDPC;Feminino;Aluno;Total;25
+F - Entidades Associadas;IDPC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+F - Entidades Associadas;IDPC;Feminino;Servidor;Docente;0
+F - Entidades Associadas;IDPC;Feminino;Servidor;Tec/Adm;0
+F - Entidades Associadas;IDPC;Feminino;Total;Total;25
+F - Entidades Associadas;IDPC;Masculino;Aluno;Graduação;0
+F - Entidades Associadas;IDPC;Masculino;Aluno;Pós-Graduação;60
+F - Entidades Associadas;IDPC;Masculino;Aluno;Total;60
+F - Entidades Associadas;IDPC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+F - Entidades Associadas;IDPC;Masculino;Servidor;Docente;0
+F - Entidades Associadas;IDPC;Masculino;Servidor;Tec/Adm;0
+F - Entidades Associadas;IDPC;Masculino;Total;Total;60
+F - Entidades Associadas;IPEN;Feminino;Aluno;Graduação;0
+F - Entidades Associadas;IPEN;Feminino;Aluno;Pós-Graduação;271
+F - Entidades Associadas;IPEN;Feminino;Aluno;Total;271
+F - Entidades Associadas;IPEN;Feminino;Pós-Doutorando;Pós-Doutorando;0
+F - Entidades Associadas;IPEN;Feminino;Servidor;Docente;0
+F - Entidades Associadas;IPEN;Feminino;Servidor;Tec/Adm;0
+F - Entidades Associadas;IPEN;Feminino;Total;Total;271
+F - Entidades Associadas;IPEN;Masculino;Aluno;Graduação;0
+F - Entidades Associadas;IPEN;Masculino;Aluno;Pós-Graduação;420
+F - Entidades Associadas;IPEN;Masculino;Aluno;Total;420
+F - Entidades Associadas;IPEN;Masculino;Pós-Doutorando;Pós-Doutorando;0
+F - Entidades Associadas;IPEN;Masculino;Servidor;Docente;0
+F - Entidades Associadas;IPEN;Masculino;Servidor;Tec/Adm;0
+F - Entidades Associadas;IPEN;Masculino;Total;Total;420
+G - Programas Conjuntos;Bioenergia;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Bioenergia;Feminino;Aluno;Pós-Graduação;4
+G - Programas Conjuntos;Bioenergia;Feminino;Aluno;Total;4
+G - Programas Conjuntos;Bioenergia;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Bioenergia;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Bioenergia;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Bioenergia;Feminino;Total;Total;4
+G - Programas Conjuntos;Bioenergia;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Bioenergia;Masculino;Aluno;Pós-Graduação;16
+G - Programas Conjuntos;Bioenergia;Masculino;Aluno;Total;16
+G - Programas Conjuntos;Bioenergia;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Bioenergia;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Bioenergia;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Bioenergia;Masculino;Total;Total;16
+G - Programas Conjuntos;EESC e ICMC;Feminino;Aluno;Graduação;37
+G - Programas Conjuntos;EESC e ICMC;Feminino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;EESC e ICMC;Feminino;Aluno;Total;37
+G - Programas Conjuntos;EESC e ICMC;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;EESC e ICMC;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;EESC e ICMC;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;EESC e ICMC;Feminino;Total;Total;37
+G - Programas Conjuntos;EESC e ICMC;Masculino;Aluno;Graduação;278
+G - Programas Conjuntos;EESC e ICMC;Masculino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;EESC e ICMC;Masculino;Aluno;Total;278
+G - Programas Conjuntos;EESC e ICMC;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;EESC e ICMC;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;EESC e ICMC;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;EESC e ICMC;Masculino;Total;Total;278
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Aluno;Graduação;10
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Aluno;Total;10
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Física Méd - IF e FM;Feminino;Total;Total;10
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Aluno;Graduação;15
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Aluno;Total;15
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Física Méd - IF e FM;Masculino;Total;Total;15
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Aluno;Pós-Graduação;43
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Aluno;Total;43
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;FO/EE/FSP;Feminino;Total;Total;43
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Aluno;Pós-Graduação;15
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Aluno;Total;15
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;FO/EE/FSP;Masculino;Total;Total;15
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Aluno;Pós-Graduação;47
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Aluno;Total;47
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;ICMC-UFSCar;Feminino;Total;Total;47
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Aluno;Pós-Graduação;77
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Aluno;Total;77
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;ICMC-UFSCar;Masculino;Total;Total;77
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Aluno;Pós-Graduação;21
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Aluno;Total;21
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Feminino;Total;Total;21
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Aluno;Pós-Graduação;35
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Aluno;Total;35
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Bioengenharia;Masculino;Total;Total;35
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Aluno;Pós-Graduação;58
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Aluno;Total;58
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Feminino;Total;Total;58
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Aluno;Pós-Graduação;99
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Aluno;Total;99
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Bioinformática;Masculino;Total;Total;99
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Aluno;Pós-Graduação;100
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Aluno;Total;100
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Feminino;Total;Total;100
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Aluno;Pós-Graduação;76
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Aluno;Total;76
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Biotecnologia;Masculino;Total;Total;76
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Aluno;Pós-Graduação;58
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Aluno;Total;58
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Feminino;Total;Total;58
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Aluno;Pós-Graduação;32
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Aluno;Total;32
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Ecologia Aplicada;Masculino;Total;Total;32
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Aluno;Pós-Graduação;111
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Aluno;Total;111
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Feminino;Total;Total;111
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Aluno;Pós-Graduação;34
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Aluno;Total;34
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Enfermagem;Masculino;Total;Total;34
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Aluno;Pós-Graduação;159
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Aluno;Total;159
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Feminino;Total;Total;159
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Aluno;Pós-Graduação;119
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Aluno;Total;119
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Ensino de Ciências;Masculino;Total;Total;119
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Aluno;Pós-Graduação;96
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Aluno;Total;96
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Feminino;Total;Total;96
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Aluno;Pós-Graduação;63
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Aluno;Total;63
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Estética e História da Arte;Masculino;Total;Total;63
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Aluno;Pós-Graduação;149
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Aluno;Total;149
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Feminino;Total;Total;149
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Aluno;Pós-Graduação;122
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Aluno;Total;122
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Integração da América Latina;Masculino;Total;Total;122
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Aluno;Pós-Graduação;64
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Aluno;Total;64
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Museologia;Feminino;Total;Total;64
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Aluno;Graduação;0
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Aluno;Pós-Graduação;26
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Aluno;Total;26
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades em Museologia;Masculino;Total;Total;26
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Aluno;Graduação;77
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Aluno;Total;77
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Feminino;Total;Total;77
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Aluno;Graduação;83
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Aluno;Total;83
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Interunidades Licenciatura São Carlos;Masculino;Total;Total;83
+G - Programas Conjuntos;Pró-G;Feminino;Aluno;Graduação;23
+G - Programas Conjuntos;Pró-G;Feminino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Pró-G;Feminino;Aluno;Total;23
+G - Programas Conjuntos;Pró-G;Feminino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Pró-G;Feminino;Servidor;Docente;0
+G - Programas Conjuntos;Pró-G;Feminino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Pró-G;Feminino;Total;Total;23
+G - Programas Conjuntos;Pró-G;Masculino;Aluno;Graduação;80
+G - Programas Conjuntos;Pró-G;Masculino;Aluno;Pós-Graduação;0
+G - Programas Conjuntos;Pró-G;Masculino;Aluno;Total;80
+G - Programas Conjuntos;Pró-G;Masculino;Pós-Doutorando;Pós-Doutorando;0
+G - Programas Conjuntos;Pró-G;Masculino;Servidor;Docente;0
+G - Programas Conjuntos;Pró-G;Masculino;Servidor;Tec/Adm;0
+G - Programas Conjuntos;Pró-G;Masculino;Total;Total;80
