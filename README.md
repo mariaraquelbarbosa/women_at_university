@@ -16,7 +16,7 @@
 ---
 
 # Mulheres na Universidade 👩‍🎓
-Uma análise sobre a participação feminina dentre os estudantes de graduação da Universidade de São Paulo (USP) em 2022 utilizando Python. A visualização gráfica dos resultados pode ser encontrada em uma [publicação realizada no Dia Internacional da Mulher no perfil do Instagram do FEA.dev](https://www.instagram.com/p/C4RBHwOO0r3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), uma entidade estudantil de programação aplicada a negócios da USP.
+Uma análise sobre a participação feminina dentre os estudantes de graduação da Universidade de São Paulo (USP) em 2022 utilizando Python e SQL. A visualização gráfica dos resultados pode ser encontrada em uma [publicação realizada no Dia Internacional da Mulher no perfil do Instagram do FEA.dev](https://www.instagram.com/p/C4RBHwOO0r3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), uma entidade estudantil de programação aplicada a negócios da USP.
 
 Fonte de dados: [Anuário Estatístico da USP, 2023](https://uspdigital.usp.br/anuario/AnuarioControle#)
 
